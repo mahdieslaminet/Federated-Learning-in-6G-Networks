@@ -9,7 +9,21 @@
 این پروژه با الهام از مقاله جامع درباره یادگیری فدره‌ای در شبکه‌های 6G طراحی شده است. هدف آن بررسی کاربردهای FL در سناریوهای ارتباطی نسل آینده، پیاده‌سازی یک مدل ساده فدره‌ای، و مستندسازی کامل آن برای ارائه دانشگاهی است.
 
 ---
+## 📚 منابع پروژه
 
+### 🔗 لینک مقالات
+- [Articles](https://github.com/mahdieslaminet/Federated-Learning-in-6G-Networks/tree/main/Article/Articles)
+
+### 🌐 لینک ترجمه مقالات
+- [Article Translations](https://github.com/mahdieslaminet/Federated-Learning-in-6G-Networks/tree/main/Article/Traslation)
+
+### 🧪 لینک پیاده‌سازی مقالات
+- [Datasets & Implementations](https://github.com/mahdieslaminet/Federated-Learning-in-6G-Networks/tree/main/Dataset)
+
+### 📝 لینک توضیحات مقالات و پیاده‌سازی آن‌ها
+- [Explanations](https://github.com/mahdieslaminet/Federated-Learning-in-6G-Networks/tree/main/Explanation)
+
+---
 ## 🏫 مشخصات پروژه
 
 پروژه پایانی درس شبکه‌های مخابراتی  
